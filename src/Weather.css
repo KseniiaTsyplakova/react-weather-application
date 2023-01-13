@@ -29,6 +29,10 @@
   height: 64px;
   width: 64px;
   margin-right: 10px;
+  margin-bottom: 30px;
+}
+
+.Weather .float-left {
   display: inline-block;
 }
 
