@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://t.me/Kseniia_Tsyplakova"
             target="_blank"
+            rel="noopener noreferrer"
             className="text-decoration-none"
           >
             Kseniia Tsyplakova
@@ -20,6 +21,7 @@ export default function App() {
           <a
             href="https://github.com/KseniiaTsyplakova/react-weather-application"
             target="_blank"
+            rel="noopener noreferrer"
             className="text-decoration-none"
           >
             open-sourced on GitHub
@@ -28,6 +30,7 @@ export default function App() {
           <a
             href="https://teal-mochi-64eb5d.netlify.app/"
             target="_blank"
+            rel="noopener noreferrer"
             className="text-decoration-none"
           >
             hosted on Netlify
